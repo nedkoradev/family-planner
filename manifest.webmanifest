@@ -1,0 +1,20 @@
+{
+  "id": "/family-planner/",
+  "name": "Family Planner — Семейни отпуски",
+  "short_name": "Family Planner",
+  "description": "Споделен календар за семейни отпуски и пътувания",
+  "lang": "bg",
+  "start_url": "/family-planner/",
+  "scope": "/family-planner/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#5279e8",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
